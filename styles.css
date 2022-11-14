@@ -162,7 +162,12 @@ color: var(--link-color);
 /* -----------FOOTER----------- */
 
 .footer{
-    background-color: #2F303A;
+        font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        background-color: #2F303A;
 }
 
 .address{
