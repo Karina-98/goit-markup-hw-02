@@ -38,6 +38,7 @@ header{
 }
 
 .header-link-list {
+        font-family: 'Roboto';
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -50,6 +51,7 @@ header{
 }
 
 .header-link{
+        font-family: 'Roboto';
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -171,6 +173,7 @@ color: var(--link-color);
 }
 
 .address{
+        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
@@ -181,6 +184,7 @@ color: var(--link-color);
 
 
 .footer-contact{
+        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
